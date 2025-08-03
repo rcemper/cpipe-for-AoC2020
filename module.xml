@@ -3,7 +3,7 @@
   <Document name="cpipe-for-aoc2020.ZPM">
     <Module>
       <Name>cpipe-for-aoc2020</Name>
-      <Version>0.1.0</Version>
+      <Version>0.1.2</Version>
       <Description>Example to consume external modules using CPIPE</Description>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
