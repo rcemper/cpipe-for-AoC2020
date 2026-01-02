@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="cpipe-for-aoc2020.ZPM">
+    <Module>
+      <Name>cpipe-for-aoc2020</Name>
+      <Version>0.1.2</Version>
+      <Description>Example to consume external modules using CPIPE</Description>
+      <Packaging>module</Packaging>
+      <SourcesRoot>src</SourcesRoot>
+      <Resource Name="rcc.AoC20.CLS"/>
+      <FileCopy Name="py/" Target="${libdir}py/"/>
+      <FileCopy Name="in/" Target="${libdir}in/"/>
+    </Module>
+  </Document>
+</Export>
